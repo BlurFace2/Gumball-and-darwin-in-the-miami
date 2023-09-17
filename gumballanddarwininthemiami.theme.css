@@ -1,0 +1,25 @@
+/**
+ * @name Gumball and darwin in the miami
+ * @author NeBulve
+ * @version 0.0.2
+ * @description Miami themed.
+ * @source https://github.com/BlurFace2/Gumball-and-darwin-in-the-miami/
+ * @BDEditor Gumball and Darwin in the miami
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/R2zSbRZ.jpg');
+  --home-image: url('https://avatarfiles.alphacoders.com/325/325623.png');
+  --accent: 185,47,150;
+  --accent-alt: 23,96,115;
+  --background-solid: #161921;
+  --background-solid-dark: #101218;
+  --background-solid-darker: #0c0e12;
+}
+
+/* Any custom CSS below here */
+
+
